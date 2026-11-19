@@ -1,3 +1,6 @@
+# Project 7 Final Trigger
+# Project 7 Final Trigger
+
 variable "aws_region" {
   default = "ap-south-1"
 }

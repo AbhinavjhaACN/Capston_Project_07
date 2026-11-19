@@ -2,7 +2,7 @@ resource "aws_iam_user" "s3_user" {
   name = var.iam_user_name
 
   tags = {
-    Name = "abhinav-s3-user"
+    Name    = "abhinav-s3-user"
     Project = "IAM Automation"
   }
 }
